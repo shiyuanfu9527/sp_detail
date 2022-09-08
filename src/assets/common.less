@@ -1,0 +1,68 @@
+// @primary-color: white;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("https://staticdn.vivaia.com/oneapi/fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("https://staticdn.vivaia.com/oneapi/fonts/Roboto-Bold.ttf");
+}
+
+.product_detail_richtext {
+  font-family: "Roboto-Regular";
+  .tc {
+    text-align: center;
+  }
+  .sp_img {
+    width: 100%;
+  }
+  .detail-text-wrap {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .detail-item>div {
+    width: 50%;
+  }
+  .detail-item {
+    display: flex;
+    background-color: rgba(245, 243, 239, 1);
+    img {
+      height: 100%;
+    }
+  }
+  .cb5 {
+    color: #000;
+    opacity: 0.5;
+  }
+  .mb10 {
+    margin-bottom: 10px;
+  }
+  .fwb {
+    font-weight: bold;
+    font-family: "Roboto-Bold";
+  }
+  .mb15 {
+    margin-bottom: 15px;
+  }
+  .mt15 {
+    margin-top: 15px;
+  }
+  .desc-grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 3%;
+  }
+  .desc-grid {
+    display: grid;
+  }
+  .mt42 {
+    margin-top: 42px;
+  }
+}
+

@@ -1,0 +1,126 @@
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+  .product_detail_richtext .pchas {
+    display: block;
+  }
+  .product_detail_richtext .mobilehas {
+    display: none;
+  }
+  .product_detail_richtext > .desc-item {
+    width: 960px;
+    margin: 0 auto;
+  }
+  .product_detail_richtext .title-area {
+    padding-top: 60px;
+    padding-bottom: 40px;
+  }
+  .product_detail_richtext .desc-text-h1 {
+    font-size: 40px;
+    font-family: "PlayfairDisplay-Regular";
+  }
+  .product_detail_richtext .desc-text-h2 {
+    font-size: 28px;
+    font-family: "Lato-Bold";
+  }
+  .product_detail_richtext .desc-text-h3 {
+    font-size: 22px;
+    font-family: "Lato-Bold";
+  }
+  .product_detail_richtext .desc-img-item .desc-img-right_pc .desc-text-img-context .desc-text-img-title {
+    font-size: 3vw;
+    width: 36vw;
+  }
+  .product_detail_richtext .desc-img-item .desc-img-right_pc .desc-text-img-context .desc-text-img-text {
+    font-size: 2vw;
+    width: 27vw;
+  }
+  .product_detail_richtext .desc-text-body {
+    font-size: 20px;
+  }
+  .product_detail_richtext .desc-text-body2 {
+    font-size: 18px;
+  }
+  .product_detail_richtext .desc-text-caption {
+    font-size: 16px;
+  }
+  .product_detail_richtext .des-margin-body {
+    margin-top: 16px;
+  }
+  .product_detail_richtext .detail-item {
+    margin-bottom: 40px;
+  }
+}
+@media screen and (min-width: 1441px) {
+  .product_detail_richtext .pchas {
+    display: block;
+  }
+  .product_detail_richtext .mobilehas {
+    display: none;
+  }
+  .product_detail_richtext .title-area {
+    padding-top: 80px;
+    padding-bottom: 40px;
+  }
+  .product_detail_richtext .desc-item {
+    width: 69%;
+    margin: 0 auto;
+  }
+  .product_detail_richtext .desc-img-item .desc-img-right_pc .desc-text-img-context {
+    display: flex;
+    flex-direction: column;
+  }
+  .product_detail_richtext .desc-img-item .desc-img-right_pc .desc-text-img-context .desc-text-img-title {
+    font-size: 3vw;
+    width: 32vw;
+  }
+  .product_detail_richtext .desc-img-item .desc-img-right_pc .desc-text-img-context .desc-text-img-text {
+    font-size: 24px;
+    width: 28vw;
+  }
+  .product_detail_richtext .desc-text-h1 {
+    font-size: 48px;
+    font-family: "PlayfairDisplay-Regular";
+  }
+  .product_detail_richtext .desc-text-h2 {
+    font-size: 32px;
+    font-family: "Lato-Bold";
+  }
+  .product_detail_richtext .desc-text-h3 {
+    font-size: 24px;
+    font-family: "Lato-Bold";
+  }
+  .product_detail_richtext .desc-text-body {
+    font-size: 24px;
+  }
+  .product_detail_richtext .desc-text-body1 {
+    font-size: 30px;
+  }
+  .product_detail_richtext .desc-text-body2 {
+    font-size: 20px;
+  }
+  .product_detail_richtext .desc-text-caption {
+    font-size: 18px;
+  }
+  .product_detail_richtext .des-margin-body {
+    margin-top: 16px;
+  }
+  .product_detail_richtext .detail-item {
+    margin-bottom: 40px;
+  }
+}
+@media screen and (min-width: 769px) {
+  .desc-text-fz14 {
+    font-size: 28px;
+  }
+  .shop-detail-footer {
+    margin: 0 auto;
+    margin-top: 87px;
+    border-radius: 39px;
+    width: 100%;
+    border: 1px dashed #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 79px;
+    margin-bottom: 80px !important;
+  }
+}

@@ -1,0 +1,77 @@
+{
+    "Topitem":{
+        "Toph1":"Audrey",
+        "Toptext":"Classic style with a variety of delicate patterns",
+        "pic":[
+            {
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_m15.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_pc6.png"
+            },
+            {
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_m15.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_pc6.png"
+            }
+    ]
+    },
+    "descitem":[
+        {
+            "desch1":"Flats That Feel Like Sneakers",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m15.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc18.png"
+        },{
+            "desch1":"Walking on clouds",
+            "desch3":"Light as a feather, built for maximum comfort",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m11.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc17.png"
+        },
+        {
+            "desch1":"Pure Comfort",
+            "desch3":"Classic style with a variety of delicate patterns",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc3.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m4.png"
+        },
+        {
+            "desch1":"Say Goodbye To Blisters!",
+            "desch3":"With added heel padding, like comfortable pillows for your ankles!",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m16.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc15.png"
+        },
+        {
+            "desch1":"TECH",
+            "desch2":"MEET VFOAM: A DUAL-LAYERED FOAM SUPPORT SYSTEM.",
+            "desch3":"Stay close to the ground to feel every natural touch with our cushiony and high rebound V-FOAM, built for maximum sneaker-like comfort.",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m14.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc14.png"
+        }
+        ],
+        "Details":[
+            {
+                "text1":"Texture",
+                "text2":"Wrap your feet with every single supple and cosy yarn, contributing to a natural motion sensation.",
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m5.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc4.png"
+            },
+            {
+                "text1":"Slip Resistant",
+                "text2":"Ruber outsole is slip resistant, made to go places.",
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m9.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc7.png"
+            },
+            {
+                "text1":"Artemisia Added",
+                "text2":"Insoles with artemisia added that inhibit bacterial growth and keep your feet feeling and smelling fresh all day long.",
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m3.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc2.png"
+            },
+            {
+                "text1":"Sustainable insole lining",
+                "text2":"A layer of 100% biodegradable sustainable lining is attached to the surface of every insole. It’s soft & silky .",
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m6.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc5.png"
+            }
+            ]
+}
+    
+
+    
+  

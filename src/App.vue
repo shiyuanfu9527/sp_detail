@@ -1,28 +1,48 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="product_detail_richtext">
+    <TopContainer></TopContainer>
+    <DescItem></DescItem>
+    <Details></Details>
+    <AboutUs></AboutUs>
+    <ChooseSize></ChooseSize>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import DescItem from './components/DescItem.vue';
+import Details from './components/Details.vue';
+import ChooseSize from './components/ChooseSize.vue';
+import TopContainer from './components/TopContainer.vue';
+import AboutUs from '@/components/AboutUs'
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    DescItem,
+    Details,
+    ChooseSize,
+    TopContainer,
+    AboutUs
+},
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "PlayfairDisplay-Regular";
+  src: url("https://staticdn.vivaia.com/oneapi/fonts/PlayfairDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("https://staticdn.vivaia.com/oneapi/fonts/Lato-Regular.ttf");
+}
+@font-face{
+  font-family: "Lato-Bold";
+  src: url("https://staticdn.vivaia.com/oneapi/fonts/Lato-Bold.ttf");
 }
 </style>
