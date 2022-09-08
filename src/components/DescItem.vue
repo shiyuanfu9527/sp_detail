@@ -5,7 +5,7 @@
             <div class="desc-text-h1">
                 {{item.desch1}}
             </div>
-            <div class="desc-text-body des-margin-body">
+            <div class="desc-text-body des-margin-body c5">
                 {{item.desch2}}
             </div>
             <div class="desc-text-body des-margin-body c5">
