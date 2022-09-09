@@ -11,13 +11,13 @@
             <picture v-for="item in content.Topitem.pic">
                 <source :srcset=item.pic_m
                     media="(max-width: 768px)" />
-                <img class="sp_img top_img" alt="VIVAIA"
+                <img class="sp_img" alt="VIVAIA"
                     :src=item.pic_pc />
             </picture>
     </div>
 </template>
 <script>
-import content from '../content.json'
+import content from '../content.json';
 export default {
     name:'topcontainer',
     data() {
@@ -28,17 +28,17 @@ export default {
 }
 </script>
 <style lang="less">
-        .top_img{
-            margin-bottom: 80px;
-        }
-        @media screen and (min-width:1025px) and (max-width:1440px) {
-            .top_img{
-                margin-bottom: 60px;
-            }
-        }
-        @media screen and (max-width:1024px) {
-            .top_img{
-                margin-bottom: 20px;
-            }
-        }
+        // .top_img{
+        //     margin-bottom: 80px;
+        // }
+        // @media screen and (min-width:1025px) and (max-width:1440px) {
+        //     .top_img{
+        //         margin-bottom: 60px;
+        //     }
+        // }
+        // @media screen and (max-width:1024px) {
+        //     .top_img{
+        //         margin-bottom: 20px;
+        //     }
+        // }
 </style>

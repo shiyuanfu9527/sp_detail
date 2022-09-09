@@ -23,7 +23,7 @@
                         <div class="desc-text-h2 mb10 fwb">
                             {{item.text1}}
                         </div>
-                        <div class="desc-text-body2 ">
+                        <div class="desc-text-body2 cb5">
                             {{item.text2}}
                         </div>
                     </div>
@@ -33,7 +33,7 @@
     
 </template>
 <script>
-import content from '@/content'
+import content from '@/content';
 export default {
     name:'productdetails',
     data() {

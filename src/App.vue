@@ -2,6 +2,8 @@
   <div class="product_detail_richtext">
     <TopContainer></TopContainer>
     <DescItem></DescItem>
+    <Fourpicture></Fourpicture>
+    <DescItem2></DescItem2>
     <Details></Details>
     <GifPicture></GifPicture>
     <AboutUs></AboutUs>
@@ -10,26 +12,26 @@
 </template>
 
 <script>
-import DescItem from './components/DescItem.vue';
-import Details from './components/Details.vue';
-import ChooseSize from './components/ChooseSize.vue';
-import TopContainer from './components/TopContainer.vue';
 import AboutUs from '@/components/AboutUs';
+import ChooseSize from './components/ChooseSize.vue';
+import DescItem from './components/DescItem.vue';
+import DescItem2 from './components/DescItem2.vue';
+import Details from './components/Details.vue';
+import Fourpicture from './components/Fourpicture.vue';
 import GifPicture from './components/GifPicture.vue';
+import TopContainer from './components/TopContainer.vue';
 export default {
   name: 'App',
-  data() {
-    return {
-      content
-    }
-  },
   components: {
     DescItem,
+    DescItem2,
     Details,
     ChooseSize,
     TopContainer,
     AboutUs,
     GifPicture,
+    Fourpicture,
+    Fourpicture
 },
 }
 </script>

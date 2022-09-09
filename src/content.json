@@ -1,40 +1,60 @@
 {
     "Topitem":{
-        "Toph1":"Audrey",
-        "Toptext":"Classic style with a variety of delicate patterns",
+        "Toph1":"Mesh ARIA 5°",
+        "Toptext":"Provide incredibly comfort and breathability.",
         "pic":[
             {
-                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_m15.png",
-                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_pc6.png"
-            },
-            {
-                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_m15.png",
-                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/audrey_pc6.png"
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/760@2x.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/76.png"
             }
     ]
     },
     "descitem":[
         {
-            "desch1":"Flats That Feel Like Sneakers",
-            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m15.png",
-            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc18.png"
-        },{
-            "desch1":"Walking on clouds",
-            "desch3":"Light as a feather, built for maximum comfort",
-            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m11.png",
-            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc17.png"
+            "desch1":"Upgraded ARIA 5°,  a must for long-term walking and standing.",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220810-ARIA%205%C2%B0-Mix-product%20description-domestic@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/shbd.png"
         },
         {
-            "desch1":"Pure Comfort",
-            "desch3":"Classic style with a variety of delicate patterns",
-            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m4.png",
-            "pic_pc":" https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc3.png"
+            "desch1":"Flats That Feel Like Sneakers ",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/ws@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/sjxjj.png"
+        }
+    ],
+    "fourpictureitem":[
+        {
+            "desch1":"Walking on clouds",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/wecom-temp-2088799-be54ed861bf5edec90ca114d59354fe9@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/wecom-temp-2088799-be54ed861bf5edec90ca114d59354fe9.png"
+        },
+        {
+            "desch1":"Soft like a second skin",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220217-Vivaia-yarn-product%20description-domestic4@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/iuhbz.png"
         },
         {
             "desch1":"Say Goodbye To Blisters!",
-            "desch3":"With added heel padding, like comfortable pillows for your ankles!",
-            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m16.png",
-            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc15.png"
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/wh@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/30.png"
+        },
+        {
+            "desch1":"Added arch comfort",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/728@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/uj.png"
+        }
+    ],
+    "descitem2":[
+        {
+            "desch1":"Relax your feet",
+            "desch3":"The knit upper stretches in 4 directions to avoid toe squeezing.",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/qw@2x.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/wss.png"
+        },
+        {
+            "desch1":"Clothes are Machine Washable.Why not Shoes?",
+            "desch3":"There are no lazy users,only products that are not convenient enough.Your Time Matters.",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/tuuuu@2x.png",
+            "pic_pc":" https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/27.png"
         },
         {
             "desch1":"TECH",
@@ -42,44 +62,52 @@
             "desch3":"Stay close to the ground to feel every natural touch with our cushiony and high rebound V-FOAM, built for maximum sneaker-like comfort.",
             "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m14.png",
             "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc14.png"
+        },
+        {
+            "desch1":"Why Aria 5°?",
+            "desch2":"ARIA 5° IS THE 3.0 UPGRADE VERSION OF OUR CLASSIC COLLECTION.",
+            "desch3":"According to ergonomic design, we've added a wider toe box for better fit and elegant shape that won't squeeze your feet.",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/1m.gif",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/1pc.gif"
         }
     ],
     "Details":[
             {
                 "text1":"Texture",
                 "text2":"Wrap your feet with every single supple and cosy yarn, contributing to a natural motion sensation.",
-                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m5.png",
-                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc4.png"
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220804-ARIA%205%C2%B0-shflatse2206100002-close%20up%20of%20material-product%20description-domestic%201@2x.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220804-ARIA%205%C2%B0-shflatse2206100002-close%20up%20of%20material-product%20description-domestic%201.png"
             },
             {
                 "text1":"Slip Resistant",
                 "text2":"Ruber outsole is slip resistant, made to go places.",
-                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m9.png",
-                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc7.png"
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220627-MELIA-shflatse2206020001-sole-product%20description-domestic@2x.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220804-AUDREY-shflatse2207010001-close%20up%20of%20material-product%20description-domestic.png"
             },
             {
                 "text1":"Artemisia Added",
                 "text2":"Insoles with artemisia added that inhibit bacterial growth and keep your feet feeling and smelling fresh all day long.",
-                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m3.png",
-                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc2.png"
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/09492a248e27f0f701910b4d03aa86f@2x.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/09492a248e27f0f701910b4d03aa86.png"
             },
             {
                 "text1":"Sustainable insole lining",
                 "text2":"A layer of 100% biodegradable sustainable lining is attached to the surface of every insole. It’s soft & silky .",
-                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m6.png",
-                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc5.png"
+                "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220804-ARIA%205%C2%B0-shflatse2206100002-close%20up%20of%20material-product%20description-domestic%202@2x.png",
+                "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/20220804-AUDREY-shflatse2207010001-close%20up%20of%20material-product%20description-domestic%203.png"
             }
     ],
     "Gif":[
         {
             "gifh1":"3-IN-1",
             "gifh2":"All-day shoes. One pair to go to work,one pair at work and one pair for after",
-            "gif_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/pingzi_m.jpg",
-            "gif_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/pingzi_pc.jpg",
-            "desch1":"Lovely buyer's show",
-            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m2.png",
-            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc1.png"
-
+            "gif_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/round.gif",
+            "gif_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/round.gif",
+            "desch1":"The future of shoes ‘Back to Nature’",
+            "desch2":"The reincarnating 6 plastic bottles. - TURNING MARINE WASTE INT",
+            "desch3":"For every order, you recycle 6 wasted plastic bottles and help safe our planet.",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/2m.gif",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220908_4685/2pc-1.gif"
         }
     ]
 }
