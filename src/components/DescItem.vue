@@ -14,7 +14,7 @@
         </div>
         <picture>
             <source :srcset=item.pic_m
-            media="(max-width:768px)">
+            media="(max-width: 768px)">
             <img class="sp_img" :src=item.pic_pc  alt="VIVAIA"
             >
         </picture>

@@ -3,6 +3,7 @@
     <TopContainer></TopContainer>
     <DescItem></DescItem>
     <Details></Details>
+    <GifPicture></GifPicture>
     <AboutUs></AboutUs>
     <ChooseSize></ChooseSize>
   </div>
@@ -13,15 +14,22 @@ import DescItem from './components/DescItem.vue';
 import Details from './components/Details.vue';
 import ChooseSize from './components/ChooseSize.vue';
 import TopContainer from './components/TopContainer.vue';
-import AboutUs from '@/components/AboutUs'
+import AboutUs from '@/components/AboutUs';
+import GifPicture from './components/GifPicture.vue';
 export default {
   name: 'App',
+  data() {
+    return {
+      content
+    }
+  },
   components: {
     DescItem,
     Details,
     ChooseSize,
     TopContainer,
-    AboutUs
+    AboutUs,
+    GifPicture,
 },
 }
 </script>

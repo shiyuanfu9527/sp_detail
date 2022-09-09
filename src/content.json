@@ -27,8 +27,8 @@
         {
             "desch1":"Pure Comfort",
             "desch3":"Classic style with a variety of delicate patterns",
-            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc3.png",
-            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m4.png"
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m4.png",
+            "pic_pc":" https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc3.png"
         },
         {
             "desch1":"Say Goodbye To Blisters!",
@@ -43,8 +43,8 @@
             "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m14.png",
             "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc14.png"
         }
-        ],
-        "Details":[
+    ],
+    "Details":[
             {
                 "text1":"Texture",
                 "text2":"Wrap your feet with every single supple and cosy yarn, contributing to a natural motion sensation.",
@@ -69,7 +69,19 @@
                 "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m6.png",
                 "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc5.png"
             }
-            ]
+    ],
+    "Gif":[
+        {
+            "gifh1":"3-IN-1",
+            "gifh2":"All-day shoes. One pair to go to work,one pair at work and one pair for after",
+            "gif_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/pingzi_m.jpg",
+            "gif_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220901_4655/pingzi_pc.jpg",
+            "desch1":"Lovely buyer's show",
+            "pic_m":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_m2.png",
+            "pic_pc":"https://cdnimg.vivaia.com/VA/image/Banner/20220907_4681/Melia_pc1.png"
+
+        }
+    ]
 }
     
 
