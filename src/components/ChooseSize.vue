@@ -1,5 +1,6 @@
 <template >
     <div class="desc-item">
+        <div>
         <div class="title-area">
             <div class="desc-text-fz16 mb15">
                 Choose a right size!
@@ -17,6 +18,7 @@
                     <div class="desc-text-body cb5">
                         ③ Repeat for the other foot and choose the longest measurement!
                     </div>
+            </div>
             </div>
             <div class="desc-grid desc-grid-3">
                 <div>
